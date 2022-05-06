@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-class countPhone {
+public class countPhone {
 	public static void main(String[] args) {
 		double x = 100.00;
 		double y = 50.00;
